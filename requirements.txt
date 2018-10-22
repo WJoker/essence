@@ -1,2 +1,7 @@
 Python==3.6.5
 Flask==1.0.2
+MongoDB
+Redis
+Nginx
+Gunicorn
+Supervisor
